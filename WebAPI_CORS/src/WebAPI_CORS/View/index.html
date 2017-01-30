@@ -2,7 +2,7 @@
 <html ng-app="myContext">
 <head>
     <meta charset="utf-8" />
-    <title></title>
+    <title>Teste </title>
 
     <script src="scripts/angular.js"></script>
     <script src="scripts/script.js"></script>
@@ -10,9 +10,10 @@
 <body>
     <h1> Testando CORS </h1>
     <div ng-controller="MainController">
+        <p>Hello {{name}}</p>
         <ul>
             <li ng-repeat="x in myData">
-                {{ x }}
+                {{ x + ',' + x }}
             </li>
         </ul>
 
