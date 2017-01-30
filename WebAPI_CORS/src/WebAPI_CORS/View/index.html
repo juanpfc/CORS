@@ -4,19 +4,20 @@
     <meta charset="utf-8" />
     <title></title>
 
-    
+    <script src="scripts/angular.js"></script>
+    <script src="scripts/script.js"></script>
 </head>
 <body>
+    <h1> Testando CORS </h1>
     <div ng-controller="MainController">
         <ul>
             <li ng-repeat="x in myData">
-                {{ x.Name + ', ' + x.Country }}
+                {{ x }}
             </li>
         </ul>
 
     </div>
 
-    <script src="scripts/angular.js"></script>
-    <script src="scripts/script.js"></script>
+    
 </body>
 </html>

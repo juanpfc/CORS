@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\bin\Debug\netcoreapp1.0\WebAPI_CORS.dll"
+"C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\bin\Debug\netcoreapp1.0\WebAPI_CORS.dll"
 -r:"C:\Users\Juan\.nuget\packages\Microsoft.AspNetCore.Antiforgery\1.0.1\lib\netstandard1.3\Microsoft.AspNetCore.Antiforgery.dll"
 -r:"C:\Users\Juan\.nuget\packages\Microsoft.AspNetCore.Authorization\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Authorization.dll"
 -r:"C:\Users\Juan\.nuget\packages\Microsoft.AspNetCore.Cors\1.0.0\lib\netstandard1.3\Microsoft.AspNetCore.Cors.dll"
@@ -164,7 +164,7 @@
 -r:"C:\Users\Juan\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\Juan\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\Juan\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
--resource:"C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\WebAPI_CORSdotnet-compile.deps.json",WebAPI_CORS.deps.json
-"C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\Program.cs"
-"C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\Startup.cs"
-"C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\Controllers\ValuesController.cs"
+-resource:"C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\WebAPI_CORSdotnet-compile.deps.json",WebAPI_CORS.deps.json
+"C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\Program.cs"
+"C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\Startup.cs"
+"C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\Controllers\ValuesController.cs"

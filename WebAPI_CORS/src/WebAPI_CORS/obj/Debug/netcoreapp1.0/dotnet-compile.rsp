@@ -1,5 +1,5 @@
---temp-output:C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\
---out:C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\bin\Debug\netcoreapp1.0\WebAPI_CORS.dll
+--temp-output:C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\bin\Debug\netcoreapp1.0\WebAPI_CORS.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -168,7 +168,7 @@
 --reference:C:\Users\Juan\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Juan\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Juan\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\WebAPI_CORSdotnet-compile.deps.json",WebAPI_CORS.deps.json
-C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\Program.cs
-C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\Startup.cs
-C:\Project\Nova pasta\WebAPI_CORS\src\WebAPI_CORS\Controllers\ValuesController.cs
+--resource:"C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\obj\Debug\netcoreapp1.0\WebAPI_CORSdotnet-compile.deps.json",WebAPI_CORS.deps.json
+C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\Program.cs
+C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\Startup.cs
+C:\Users\Juan\Documents\GitHubVisualStudio\CORS\WebAPI_CORS\src\WebAPI_CORS\Controllers\ValuesController.cs
